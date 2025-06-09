@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "react_backend_course",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
